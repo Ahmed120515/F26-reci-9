@@ -2,7 +2,6 @@ import { describe, expect, it } from 'vitest';
 import fc from 'fast-check';
 import { mergeIntervals, type Interval } from '../src/intervals';
 
-// Recitation Part 2 (groups) and problem set Task 2.
 // Read the spec in src/intervals/mergeIntervals.ts, then check your progress
 // with `npm run mutants:intervals`.
 //
